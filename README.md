@@ -1,4 +1,4 @@
-# 🎬 Unboxd - Linking Movies to their avaliable streaming options 
+# 🎬 Unboxd - Linking Movies to their available streaming options 
 A Flask web application that scrapes Letterboxd movie lists and fetches streaming availability using the TMDB API.
 
 ## 🚀 Features  
